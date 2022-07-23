@@ -1,5 +1,5 @@
 ![TurboSnap<i>!</i> Logo](src/TurboSnap.png)
-# TurboSnap<i>!</i> Compiled Snap<i>!</i>
+# TurboSnap<i>!</i>: Compiled Snap<i>!</i>
 
 **[Try TurboSnap<i>!</i> Now](https://warpedwartwars.github.io/TurboSnap/)**
 
