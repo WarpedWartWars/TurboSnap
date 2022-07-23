@@ -1,38 +1,28 @@
-![Snap! Logo](src/snap_logo_sm.png)
-# Snap<em>!</em> Build Your Own Blocks
+![TurboSnap<i>!</i> Logo](src/TurboSnap.png)
+# TurboSnap<i>!</i> Compiled Snap<i>!</i>
 
-[https://snap.berkeley.edu][snap]
+**[Try TurboSnap<i>!</i> Now](https://warpedwartwars.github.io/TurboSnap/)**
 
-**[Try Snap<em>!</em> Now](https://snap.berkeley.edu/snap/)**
+written by WarpedWartWars
+warpedwartwars@gmail.com
 
-a visual, blocks based programming language
-inspired by Scratch
+## TurboSnap<i>!</i> Community
 
-written by Jens Mönig and Brian Harvey
-jens@moenig.org, bh@cs.berkeley.edu
+This repository contains the source code for the TurboSnap<i>!</i> compiler.
+If you have questions about using TurboSnap<i>!</i>, please [check out the
+Snap<i>!</i> Forum topic][forum].
 
-## Snap<em>!</em> Community
-
-This repository contains the source code for Snap<em>!</em> IDE. If you have
-questions about using Snap<em>!</em>, please [checkout the Snap! Forum][forum].
-
-We also maintain an active community at [snap.berkeley.edu][snap],
-where you can save and share your own projects. You can also
-[check out the code][snapcloud], if you're curous.
-
-[snap]: https://snap.berkeley.edu
-[snapcloud]: https://github.com/snap-cloud/snapCloud
-[forum]: https://forum.snap.berkeley.edu
+[forum]: https://forum.snap.berkeley.edu/t/turbosnap/9002
 
 ## Security
 
 If you have security concerns, please do not post them publicly.
-Please reach out to us at [contact@snap.berkeley.edu](mailto:contact@snap.berkeley.edu).
+Please reach out to me at [warpedwartwars@gmail.com](mailto:warpedwartwars@gmail.com).
 
 ## License
-Copyright (C) 2008-2022 by Jens Mönig and Brian Harvey
+Copyright (C) 2022- by WarpedWartWars
 
-Snap! is free software: you can redistribute it and/or modify
+TurboSnap<i>!</i> is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version.
@@ -45,5 +35,5 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Want to use Snap! but scared by the open-source license? Get in touch with us,
+Want to use TurboSnap<i>!</i> but scared by the open-source license? Get in touch with us,
 we'll make it work.
