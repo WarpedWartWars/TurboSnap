@@ -1,4 +1,4 @@
-# TurboSnap<i>!</i>! History
+# TurboSnap<i>!</i> History
 
 ## in development:
 * **New Features:**
